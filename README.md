@@ -1,7 +1,7 @@
 -> Simple Python Tool To Add Profile Guard In Facebook Profile 💗
 __________________
 
-git clone https://github.com/YunickXwd01/profile_guard/tree/main
+git clone https://github.com/YunickXwd01/profile_guard
 ___________________
 
 cd profile_guard
